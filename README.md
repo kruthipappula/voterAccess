@@ -39,7 +39,7 @@ The application provides simplified summaries of ballot propositions and helps u
 
 ## Project Context
 
-This project was developed as part of the IBM SkillsBuild AI Experiential Learning Lab.
+This project was developed as part of the IBM SkillsBuild AI Experiential Learning Lab by Kriti Vanipenta, Nivedha Balasubramaniam, and Kruthi Pappula.
 
 ## Future Improvements
 
